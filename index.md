@@ -5,8 +5,8 @@ layout: default
 <h3> A workshop at the Annual Conference on Neural Information Processing Systems.<br /> Date TBD, Centre Convencions Internacional Barcelona, Barcelona, Spain </h3>
 
 ## Important dates
-   * Submissions due: **Oct 21, 2016, 11:59pm (time zone of your choice)**
-   * Decision notification: Nov 2, 2016
+   * Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)**
+   * Decision notification: Oct 21, 2016
 
 ## Invited Speakers
    * [Jonathan Marchini - University of Oxford (UK)](http://www.stats.ox.ac.uk/~marchini/)

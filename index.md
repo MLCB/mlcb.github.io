@@ -5,7 +5,7 @@ layout: default
 <h3> A workshop at the Annual Conference on Neural Information Processing Systems.<br /> Saturday Dec 10th 2016, Centre Convencions Internacional Barcelona, Barcelona, Spain </h3>
 
 ## Important dates
-   * Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)**
+   * Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016)
    * Decision notification: Oct 21, 2016
    * Workshop: Dec 10, 2016
 

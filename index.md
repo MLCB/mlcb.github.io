@@ -28,7 +28,7 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 ## Submission instructions
 
-Researchers interested in contributing should upload an extended abstract of 4 pages in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016) by Oct 9, 2016, 11:59pm (time zone of your choice).
+Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references) in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016) by Oct 9, 2016, 11:59pm (time zone of your choice).
 
 No special style is required. Authors may use the NIPS style file, but are also free to use other styles as long as they use standard font size (11 pt) and margins (1 in). 
 

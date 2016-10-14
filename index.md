@@ -34,7 +34,7 @@ No special style is required. Authors may use the NIPS style file, but are also 
 
 **Submissions should be suitably anonymized and meet the requirements for double-blind reviewing.**
 
-All submissions will be anonymously peer reviewed and will be evaluated on the basis of their technical content.  A strong submission to the workshop typically presents a new learning method that yields new biological insights, or applies an existing learning method to a new biological problem.  However, submissions that improve upon existing methods for solving previously studied problems will also be considered. Examples of research presented in previous years can be found online at http://www.mlcb.org/nipscompbio/previous/.
+All submissions will be anonymously peer reviewed and will be evaluated on the basis of their technical content.  A strong submission to the workshop typically presents a new learning method that yields new biological insights, or applies an existing learning method to a new biological problem.  However, submissions that improve upon existing methods for solving previously studied problems will also be considered. Examples of research presented in previous years can be found online [here](http://raetschlab.org:10080/nipscompbio/).
 
 The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. This is done to encourage presentation of mature research projects that are interesting to the community. The authors should clearly state any overlapping published work at time of submission. 
 

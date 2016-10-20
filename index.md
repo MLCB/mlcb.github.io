@@ -29,7 +29,7 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 ## Sponsors
  
-![Deep Genomics]({{ site.url }}/assets/dp_colored.png =100x "Deep Genomics")
+![Deep Genomics]({{ site.url }}/assets/dp_colored.png =100x)
 
 
 ## Submission instructions

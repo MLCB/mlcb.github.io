@@ -24,6 +24,35 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
    * [Oliver Stegle - EMBL-EBI (UK)](http://www.ebi.ac.uk/research/stegle)
    * [James Zou - Stanford (USA)](http://people.fas.harvard.edu/~jzou/)
 
+## Schedule
+
+Morning session I (9.00 - 10:00)
+08:35-08:40      Introduction
+08:40-09:25      Keynote -  Jonathan Marchini
+09:25-09:45      Talk 1 - Leo Jussi. Multiple Output Regression with Latent Noise.
+09:45-10:05      Talk 2 - Sheng Wang. Predicting Protein Folding by Ultra-Deep Learning.
+10:05-10:25      Talk 3 - Abhishek Sarkar. Dissecting the non-infinitesimal architecture of complex traits using group spike-and-slab priors.
+
+Morning coffee break (10.30 - 11.00)
+
+11:00-12:30    Posters
+12:30-13:30    Lunch
+13:30-14:15    Keynote - Alexis Battle
+14:15-14:35    Talk 4 - Paul Blomstedt. Modelling-based experiment retrieval: A case study with gene expression clustering.
+14:35-14:55    Talk 5 - Alyssa Morrow. Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction.
+
+Afternoon coffee break (15.00 - 15.30)
+
+Afternoon session I (15.30 - 18.00)
+15:30-15:50       Talk 6 - Damien Arnol.  Modelling cell-cell interactions with spatial Gaussian processes.
+15:50-16:10       Talk 7 - Jennifer Listgarten. Predicting off-target effects for CRISPR guide design.
+16:10-16:30       Talk 8 - Aaron Schein. Beta Tucker decomposition for DNA methylation data.
+16:30-16:50       Talk 9 - Victoria Dean.. Deep Learning for Branch Point Selection in RNA Splicing.
+16:50-17:10       Talk 10 - Jane Hung. Applying Faster R-CNN for Object Detection on Malaria Images.
+17:10-17:55       Panel Discussion - Deep learning and new technologies in compbio.  
+17:55-18:00       Conclusion / goodbye / thank you
+
+
 ## Description
 The field of computational biology has seen dramatic growth over the past few years. A wide range of high-throughput technologies developed in the last decade now enable us to measure parts of a biological system at various resolutions—at the genome, epigenome, transcriptome, and proteome levels. These technologies are now being used to collect data for an ever-increasingly diverse set of problems, ranging from classical problems such as predicting differentially regulated genes between time points and predicting subcellular localization of RNA and proteins, to models that explore complex mechanistic hypotheses bridging the gap between genetics and disease, population genetics and transcriptional regulation. Fully realizing the scientific and clinical potential of these data requires developing novel supervised and unsupervised learning methods that are scalable, can accommodate heterogeneity, are robust to systematic noise and confounding factors, and provide mechanistic insights. 
 

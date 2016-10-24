@@ -26,6 +26,8 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
 
 ## Schedule
 
+| test | test |
+-------------
 Morning session I (9.00 - 10:00)
 08:35-08:40      Introduction
 08:40-09:25      Keynote -  Jonathan Marchini

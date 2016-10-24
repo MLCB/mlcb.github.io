@@ -26,14 +26,12 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
 
 ## Schedule
 
-| test | test |
--------------
-Morning session I (9.00 - 10:00)
-08:35-08:40      Introduction
-08:40-09:25      Keynote -  Jonathan Marchini
-09:25-09:45      Talk 1 - Leo Jussi. Multiple Output Regression with Latent Noise.
-09:45-10:05      Talk 2 - Sheng Wang. Predicting Protein Folding by Ultra-Deep Learning.
-10:05-10:25      Talk 3 - Abhishek Sarkar. Dissecting the non-infinitesimal architecture of complex traits using group spike-and-slab priors.
+Morning session I (9.00 - 10:00)  
+08:35-08:40      Introduction  
+08:40-09:25      Keynote -  Jonathan Marchini  
+09:25-09:45      Talk 1 - Leo Jussi. Multiple Output Regression with Latent Noise.  
+09:45-10:05      Talk 2 - Sheng Wang. Predicting Protein Folding by Ultra-Deep Learning.  
+10:05-10:25      Talk 3 - Abhishek Sarkar. Dissecting the non-infinitesimal architecture of complex traits using group spike-and-slab priors.  
 
 Morning coffee break (10.30 - 11.00)
 

@@ -5,9 +5,12 @@ layout: default
 <h3> A workshop at the Annual Conference on Neural Information Processing Systems.<br /> Saturday Dec 10th 2016, Centre Convencions Internacional Barcelona, Barcelona, Spain </h3>
 
 ## Important dates
-   * Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016)
-   * Decision notification: Oct 21, 2016
+   * ~~Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016)~~
+   * ~~Decision notification: Oct 21, 2016~~
    * Workshop: Dec 10, 2016
+
+## Instructions for posters
+The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than in previous years.
 
 ## Invited Speakers
    * [Jonathan Marchini - University of Oxford (UK)](http://www.stats.ox.ac.uk/~marchini/)
@@ -34,7 +37,7 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 ## Submission instructions
 
-Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references) in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016) by Oct 9, 2016, 11:59pm (time zone of your choice).
+Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references) in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016) by Oct 9, 2016, 11:59pm (time zone of your choice). Submissions exceeding the page limit will be automatically rejected.
 
 No special style is required. Authors may use the NIPS style file, but are also free to use other styles as long as they use standard font size (11 pt) and margins (1 in). 
 

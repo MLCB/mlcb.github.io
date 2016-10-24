@@ -10,7 +10,7 @@ layout: default
    * Workshop: Dec 10, 2016
 
 ## Instructions for posters
-The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than in previous years.
+The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than previous years.
 
 ## Invited Speakers
    * [Jonathan Marchini - University of Oxford (UK)](http://www.stats.ox.ac.uk/~marchini/)

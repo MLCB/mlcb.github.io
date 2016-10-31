@@ -39,7 +39,7 @@ Morning coffee break (10.30 - 11.00)
 12:30-13:30    Lunch
 13:30-14:15    Keynote - Alexis Battle. Title TBD.
 14:15-14:35    Contributed talk - Paul Blomstedt. Modelling-based experiment retrieval: A case study with gene expression clustering.
-14:35-14:55    Contributed talk - Alyssa Morrow. Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction.
+14:35-14:55    Contributed talk - Vaishaal Shankar. Convolutional Kitchen Sinks for Transcription Factor Binding Site Prediction.
 
 Afternoon coffee break (15.00 - 15.30)
 

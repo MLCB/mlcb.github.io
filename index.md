@@ -7,7 +7,7 @@ layout: default
 ## Important dates
    * ~~Submissions due: **Oct 9, 2016, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2016)~~
    * ~~Decision notification: Oct 21, 2016~~
-   * Workshop: Dec 10, 2016
+   * Workshop: Dec 10, 2016 (Room 212)
 
 ## Instructions for posters
 The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than previous years.

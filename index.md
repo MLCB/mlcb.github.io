@@ -26,7 +26,7 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
 
 ## Schedule
 ```
-Morning session I (9.00 - 10:00)  
+Morning session I (8.35 - 10:00)  
 08:35-08:40      Introduction  
 08:40-09:25      Keynote -  Jonathan Marchini. Title TBD.
 09:25-09:45      Contributed talk - Leo Jussi. Multiple Output Regression with Latent Noise.  

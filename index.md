@@ -9,6 +9,7 @@ layout: default
    * Decision notification: Oct 30th, 2017
    * Workshop: Dec 9th, 2017
 
+
 ## Instructions for posters
 The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than previous years.
 

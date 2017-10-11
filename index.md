@@ -23,7 +23,7 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
    * [Sara Mostafavi - University of British Columbia (Canada)](http://saramostafavi.github.io/)
    * [Anshul Kundaje - Stanford (USA)](https://sites.google.com/site/anshulkundaje/)
    * [Gerald Quon - UC Davis (USA)](http://qlab.faculty.ucdavis.edu/)
-   * [James Zou - Stanford (USA)](http://people.fas.harvard.edu/~jzou/)
+   * [James Zou - Stanford (USA)](https://sites.google.com/site/jamesyzou/)
 
 ## Schedule
 TBD

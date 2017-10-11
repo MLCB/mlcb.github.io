@@ -5,7 +5,7 @@ layout: default
 <h3> A workshop at the Annual Conference on Neural Information Processing Systems.<br /> Saturday Dec 9th 2017, Long Beach Convention Center, Long Beach, CA, USA</h3>
 
 ## Important dates
-   * Submissions due: **Oct 13th, 2017, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017)
+   * Submissions due: ~~**Oct 13th, 2017, 11:59pm (time zone of your choice)**~~ **Extended: Oct 15th, 2017, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017)
    * Decision notification: Oct 30th, 2017
    * Workshop: Dec 9th, 2017
 

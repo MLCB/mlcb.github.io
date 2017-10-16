@@ -35,7 +35,8 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 
 ## Sponsors
- TBD
+<a href='https://recursionpharma.com/careers/'><img src='http://mlcb.github.io/recusion-1A.png'></a>
+<a href='http://www.amazon.com/'><img src='http://mlcb.github.io/amazon_logo_RGB.jpg' width='70%' height='70%'></a>
 
 
 ## Submission instructions

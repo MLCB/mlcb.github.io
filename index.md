@@ -26,7 +26,40 @@ The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is 
    * [James Zou - Stanford (USA)](https://sites.google.com/site/jamesyzou/)
 
 ## Schedule
-TBD
+```
+8:55 – 9:00     Opening remarks
+
+9:00 – 9:40     Invited Speaker 1 – Christina Leslie
+
+9:40 – 9:55     Talk 1 -- Denoising scRNA-seq Data Using Deep Count Autoencoders (Gökcen Eraslan)
+9:55 – 10:10    Talk 2 -- Fine Mapping of Chromatin Interactions via Neural Nets (Artur Jaroszewicz)
+10:10 – 10:25   Talk 3 -- TF-MoDISco: Learning High-Quality, Non-Redundant Transcription Factor Binding Motifs Using Deep Learning (Avanti Shrikumar)
+
+10:30 – 11:00   Coffee break + posters
+
+11:00 –12:00    Spotlights
+
+12:00 – 1:30    Lunch + Posters
+
+1:30 – 2:00     Posters
+
+2:00 – 2:40     Invited Speaker 2 – Eran Halperin
+
+2:40 – 2:55     Talk 4 – Variational Bayes inference algorithm for causal multivariate mediation with linkage disequilibrium (Yongjin Park)
+2:55 – 3:10     Talk 5 – Reference-Free Archaic Admixture Segmentation Using A Permutation-Equivariant Network (Jeffrey Chan)
+3:10 – 3:25     Talk 6 -- Robust and Scalable Models of Microbiome Dynamics for Bacteriotherapy Design (Travis Gibson)
+           
+3:30 – 4:00     Coffee break + posters
+
+4:00 – 4:40     Invited Speaker 3 – Ben Raphael
+
+4:40 – 4:55     Talk 7 -- Drug Response Variational Autoencoder (Ladislav Rampášek)
+4:55 – 5:10     Talk 8 -- Variational auto-encoding of protein sequences (Sam Sinai)
+5:10 – 5:25     Talk 9 -- Antigen Identification for Cancer Immunotherapy by Deep Learning on Tumor HLA Peptides 
+
+5:25 – 5:35     Sponsors + prizes
+
+```
 
 ## Description
 The field of computational biology has seen dramatic growth over the past few years. A wide range of high-throughput technologies developed in the last decade now enable us to measure parts of a biological system at various resolutions—at the genome, epigenome, transcriptome, and proteome levels. These technologies are now being used to collect data for an ever-increasingly diverse set of problems, ranging from classical problems such as predicting differentially regulated genes between time points and predicting subcellular localization of RNA and proteins, to models that explore complex mechanistic hypotheses bridging the gap between genetics and disease, population genetics and transcriptional regulation. Fully realizing the scientific and clinical potential of these data requires developing novel supervised and unsupervised learning methods that are scalable, can accommodate heterogeneity, are robust to systematic noise and confounding factors, and provide mechanistic insights. 

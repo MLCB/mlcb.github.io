@@ -6,7 +6,7 @@ layout: default
 
 ## Important dates
    * Submissions due: ~~**Oct 13th, 2017, 11:59pm (time zone of your choice)**~~ **Extended: Oct 15th, 2017, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017)
-   * Decision notification: Oct 30th, 2017
+   * Decision notification: ~~Oct 30th, 2017~~
    * Workshop: Dec 9th, 2017
 
 
@@ -72,7 +72,52 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 <a href='http://www.amazon.com/'><img src='http://mlcb.github.io/amazon_logo_RGB.jpg' width='70%' height='70%'></a>
 
 
-## Submission instructions
+## Program Committee
+
+Jean-Philippe	Vert	(Ecole des Mines de Paris)
+Karen	Sachs	(Stanford University)
+Li	Shen	(Icahn School of Medicine at Mount Sinai)
+Benjamin	(Haibe-Kains)
+Yun	Song	(University of California, Berkeley)
+Laurent	Jacob	(Mines ParisTech)
+Jian	Ma	(Carnegie Mellon University)
+Yves	Moreau	(Katholieke Universiteit Leuven)
+Andrew	Delong	(University of Toronto)
+Sushmita	Roy	(University of Wisconsin-Madison)
+Jinbo	Xu	Toyota (Technological Institute at Chicago)
+Christina	Leslie	(Memorial Sloan-Kettering Cancer Center)
+Nico	Pfeifer	(University of Tübingen)
+Karsten	Borgwardt	(ETH Zurich)
+Jason	Ernst	(University of California, Los Angeles)
+Maxwell	Libbrecht	(University of Washington Genome Sciences)
+Recep	Colak	(AWS)
+Juho	Rousu	(Aalto University)
+William Stafford	Noble	(University of Washington)
+Leopold	Parts	(Wellcome Trust Sanger Institute)
+Mathieu	Blanchette	(McGill University)
+Alexander	Schliep	(Gothenburg University)
+Claassen	Manfred	(ETH Zurich)
+Martin Renqiang	Min	(NEC Laboratories America)
+Antti	Honkela	(University of Helsinki)
+Maria	Chikina	(Mount Sinai School of Medicine)
+Oliver	Stegle	(EMBL-European Bioinformatics Institute)
+Cedric	Chauve	(Simon Fraser University)
+Gunnar	Ratsch	(Memorial Sloan Kettering Center)
+Michael M.	Hoffman	(Princess Margaret Cancer Centre/University of Toronto)
+Casey	Greene	(University of Pennsylvania)
+Anna	Goldenberg	(University of Toronto)
+Simon	Rogers	(Department of Computing Science, University of Glasgow)
+Pierre	Geurts	(University of Liège)
+Quaid	Morris	(University of Toronto)
+Alexis	Battle	(Johns Hopkins University)
+Chao	Cheng	(Dartmouth Medical School)
+Guido	Sanguinetti	(The University of Edinburgh)
+Bernard	Ng	(The University of British Columbia)
+Michael A.	Beer	(Johns Hopkins University)
+Su-In	Lee	(University of Washington)
+Anthony	Gitter	(University of Wisconsin-Madison)
+
+<!--## Submission instructions
 
 Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references) in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017) by Oct 13th, 2017, 11:59pm (time zone of your choice). Submissions exceeding the page limit will be automatically rejected.
 
@@ -84,6 +129,6 @@ All submissions will be anonymously peer reviewed and will be evaluated on the b
 
 The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. This is done to encourage presentation of mature research projects that are interesting to the community. The authors should clearly state any overlapping published work at time of submission. 
 
-Send any questions to nipsmlcb2017@easychair.org.
+Send any questions to nipsmlcb2017@easychair.org.-->
 
 

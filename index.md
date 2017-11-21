@@ -74,8 +74,8 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 ## Program Committee
 
-Jean-Philippe	Vert	(Ecole des Mines de Paris)
-Karen	Sachs	(Stanford University)
+Jean-Philippe	Vert	(Ecole des Mines de Paris) 
+Karen	Sachs	(Stanford University) 
 Li	Shen	(Icahn School of Medicine at Mount Sinai)
 Benjamin	(Haibe-Kains)
 Yun	Song	(University of California, Berkeley)

@@ -76,7 +76,7 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 
 Jean-Philippe	Vert	(Ecole des Mines de Paris)  
 Karen	Sachs	(Stanford University) 
-Li	Shen	(Icahn School of Medicine at Mount Sinai)   
+Li	Shen	(Icahn School of Medicine at Mount Sinai)     
 Benjamin	(Haibe-Kains)   
 Yun	Song	(University of California, Berkeley)   
 Laurent	Jacob	(Mines ParisTech)   
@@ -115,7 +115,7 @@ Guido	Sanguinetti	(The University of Edinburgh)
 Bernard	Ng	(The University of British Columbia)   
 Michael A.	Beer	(Johns Hopkins University)   
 Su-In	Lee	(University of Washington)   
-Anthony	Gitter	(University of Wisconsin-Madison)   
+Anthony	Gitter	(University of Wisconsin-Madison)    
 
 <!--## Submission instructions
 

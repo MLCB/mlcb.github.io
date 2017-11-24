@@ -70,7 +70,7 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 ## Sponsors
 <a href='https://recursionpharma.com/careers/'><img src='http://mlcb.github.io/recursion-1A.png' width='60%' height='60%'></a>
 <a href='http://www.amazon.com/'><img src='http://mlcb.github.io/amazon_logo_RGB.jpg' width='70%' height='70%'></a>
-<a href='https://www.deepgenomics.com/'><img src='http://mlcb.github.io/deep_genomics_logo_web.jpg' width='80%' height='80%'></a>
+<a href='https://www.deepgenomics.com/'><img src='http://mlcb.github.io/deep_genomics_logo_web.jpg' width='60%' height='60%'></a>
 
 ## Program Committee
 

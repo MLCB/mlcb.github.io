@@ -11,7 +11,7 @@ layout: default
 
 
 ## Instructions for posters
-The posters dimensions are 36 x 48 in. (91cm x 122cm). **Please note**: this is different than previous years.
+The maximum poster dimensions are 2.5 feet wide, 4 feet tall. **Please note**: this is different than previous years.
 
 ## Invited Speakers
    * [Eran Halperin - UCLA (USA)](https://www.eranhalperingenomics.com//)

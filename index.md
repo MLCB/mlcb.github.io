@@ -29,7 +29,7 @@ The maximum poster dimensions are 2.5 feet wide, 4 feet tall. **Please note**: t
 ```
 8:55 – 9:00     Opening remarks
 
-9:00 – 9:40     Invited Speaker 1 – Christina Leslie
+9:00 – 9:40     Invited Speaker 1 – Christina Leslie - Decoding immune cell states and dysfunction
 
 9:40 – 9:55     Talk 1 -- Denoising scRNA-seq Data Using Deep Count Autoencoders (Gökcen Eraslan)
 9:55 – 10:10    Talk 2 -- Fine Mapping of Chromatin Interactions via Neural Nets (Artur Jaroszewicz)
@@ -43,7 +43,7 @@ The maximum poster dimensions are 2.5 feet wide, 4 feet tall. **Please note**: t
 
 1:30 – 2:00     Posters
 
-2:00 – 2:40     Invited Speaker 2 – Eran Halperin
+2:00 – 2:40     Invited Speaker 2 – Eran Halperin - A new sparse PCA algorithm with guaranteed asymptotic properties and applications in methylation data
 
 2:40 – 2:55     Talk 4 – Variational Bayes inference algorithm for causal multivariate mediation with linkage disequilibrium (Yongjin Park)
 2:55 – 3:10     Talk 5 – Reference-Free Archaic Admixture Segmentation Using A Permutation-Equivariant Network (Jeffrey Chan)
@@ -51,7 +51,7 @@ The maximum poster dimensions are 2.5 feet wide, 4 feet tall. **Please note**: t
            
 3:30 – 4:00     Coffee break + posters
 
-4:00 – 4:40     Invited Speaker 3 – Ben Raphael
+4:00 – 4:40     Invited Speaker 3 – Ben Raphael - Inferring Tumor Evolution
 
 4:40 – 4:55     Talk 7 -- Drug Response Variational Autoencoder (Ladislav Rampášek)
 4:55 – 5:10     Talk 8 -- Variational auto-encoding of protein sequences (Sam Sinai)

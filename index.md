@@ -1,5 +1,8 @@
 ---
 layout: default
+output:
+  html_document:
+    df_print: paged
 ---
 
 <h3> Machine Learning in Computational Biology (MLCB) Workshop, co-located with NeurIPS. 

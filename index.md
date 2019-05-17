@@ -15,7 +15,7 @@ output:
   * The workshop will be held in C300 on 13th (Theatre room), and C150/180 on Dec 14th for the Hackathon. Both at  UBC Robson Square -- 800 Robson St, Vancouver, BC V6Z 3B7.
 
 ## Important dates
-   * Submissions due: **Sept 20th, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017)
+   * Submissions due: **Sept 20th, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019)
    * Decision notification: Oct 21th, 2019
    * Workshop: Dec 13-14th, 2019
 
@@ -25,7 +25,7 @@ The maximum poster dimensions are 2.5 feet wide, 4 feet tall. **Please note**: t
 
 ## Submission instructions
 
-Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references)    in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2019) by Sep 20th, 2019, 11:59pm (time zone of your choice). Submissions exceeding the page limit will be automatically rejected.
+Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references)    in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019) by Sep 20th, 2019, 11:59pm (time zone of your choice). Submissions exceeding the page limit will be automatically rejected.
 
 No special style is required. Authors may use the NIPS style file, but are also free to use other styles as long as they use standard font size (11 pt) and margins (1 in). 
 

@@ -10,9 +10,9 @@ output:
 
 ## Workshop Location and Format
   * The workshop will be located downtown Vacouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
-  * On Friday Dec 13th, we'll have a full day of research talks and oral presentations. 
+  * On Friday Dec 13th, we'll have a full day of research talks and keynote presentations. 
   * On Saturday Dec 14th, we'll be a hosting the first AI in Genomics Hackathon (AiGenHack)
-  * At UBC Robson square, the workshop will be held in C300 on 13th (Theatre room), and C150/180 on Dec 14th for the Hackathon.
+  * The workshop will be held in C300 on 13th (Theatre room), and C150/180 on Dec 14th for the Hackathon. Both at  UBC Robson Square -- 800 Robson St, Vancouver, BC V6Z 3B7.
 
 ## Important dates
    * Submissions due: **Sept 20th, 11:59pm (time zone of your choice)** [MLCB submission web site](https://easychair.org/conferences/?conf=nipsmlcb2017)

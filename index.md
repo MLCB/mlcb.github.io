@@ -8,6 +8,9 @@ output:
 <h3> Machine Learning in Computational Biology (MLCB) Meeting, co-located with NeurIPS. 
 <br />  Dec 13th and 14th 2019, Vancouver, Canada</h3>
 
+## About
+We are excited to be holding the 14th MLCB meeting, co-located with NeurIPS in Vancouver. Since its inception in 2004, and until 2017, MLCB was an official NeurIPS workshop. Given the growth and maturity of the field, this year MLCB will be an independent conference co-located with NeurIPS. 
+
 ## Conference Location and Format
   * The conference will be located downtown Vacouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
   * On Friday Dec 13th, we'll have a full day of research talks and keynote presentations. 

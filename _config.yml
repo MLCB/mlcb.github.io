@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Workshop on Machine Learning in Computational Biology (MLCB)
+title: Machine Learning in Computational Biology (MLCB)
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this

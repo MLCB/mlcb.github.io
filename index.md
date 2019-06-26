@@ -52,7 +52,7 @@ Send any questions to nipsmlcb2017@easychair.org.-->
    
    
 ## Organizers
-   * [David Knowles - Columbia & NY Genome Center (USA)](https://davidaknowles.github.io/)
+   * [David Knowles - Columbia & New York Genome Center (USA)](https://davidaknowles.github.io/)
    * [Anshul Kundaje - Stanford (USA)](https://sites.google.com/site/anshulkundaje/)
    * [Su-In Lee - University Washington (USA)](https://suinlee.cs.washington.edu/)
    * [Sara Mostafavi - University of British Columbia (Canada)](http://saramostafavi.github.io/)

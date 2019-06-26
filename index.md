@@ -12,7 +12,7 @@ output:
 We are excited to be holding the 14th MLCB meeting, co-located with NeurIPS in Vancouver. Since its inception in 2004, and until 2017, MLCB was an official NeurIPS workshop. Given the growth and maturity of the field, this year MLCB will be an independent conference co-located with NeurIPS. 
 
 ## Conference Location and Format
-  * The conference will be located downtown Vacouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
+  * The conference will be located downtown Vancouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
   * On Friday Dec 13th, we'll have a full day of research talks and keynote presentations. 
   * On Saturday Dec 14th, we'll be a hosting the first AI in Genomics Hackathon (AiGenHack)
   * The meeting will be held in C300 on 13th (Theatre room), and C150/180 on Dec 14th for the Hackathon. Both at  UBC Robson Square -- 800 Robson St, Vancouver, BC V6Z 3B7.

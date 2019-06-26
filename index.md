@@ -47,9 +47,10 @@ Send any questions to nipsmlcb2017@easychair.org.-->
 ## Invited Speakers
    * [Quaid Morris - University of Toronto (Canada)](http://www.morrislab.ca/)
    * [Jennifer Listgarten - UC Berkeley (USA)](http://www.jennifer.listgarten.com/)
-   * [William Noble - University of Washington (USA)](https://noble.gs.washington.edu/) 
-   * [Daphne Koller - Insitro (USA)] (http://insitro.com/)
-
+   * [William Stafford Noble - University of Washington (USA)](https://noble.gs.washington.edu/) 
+   * [Daphne Koller - Insitro (USA)](http://insitro.com/) 
+   
+   
 ## Organizers
    * [David Knowles - Columbia & NY Genome Center (USA)](https://davidaknowles.github.io/)
    * [Anshul Kundaje - Stanford (USA)](https://sites.google.com/site/anshulkundaje/)

@@ -63,8 +63,10 @@ In addition to talks by invited speakers, will also have the usual rigorous scre
 ## Submission instructions
 
 New this year we will accept submission in two tracks: 
-Research on novel learning approaches in computational biology. We encourage contributions describing either progress on new problems or work on established problems using methods that are substantially different from established alternatives.
-Perspective on important but controversial problems. Examples include (but are not limited to) different ways of conceptualizing the supposed dichotomy between interpretation and accuracy, over-interpretation from visual representations of high dimensional data, lack of statistical rigour in inferring conclusions from data and models. 
+
+1) Research track: abstracts describing research on novel learning approaches in computational biology. A strong submission to the workshop typically presents a new learning method that yields new biological insights, or applies an existing learning method to a new biological problem.  However, submissions that improve upon existing methods for solving previously studied problems will also be considered. Examples of research presented in previous years can be found online at http://raetschlab.org:10080/nipscompbio/previous. We specially encourage submissions describing work in progress and early results, for generating discussions helpful in shaping the presented work.
+
+2) Perspective track: position or review papers on important but controversial problems. Examples include (but are not limited to) different ways of conceptualizing the supposed dichotomy between interpretation and accuracy, over-interpretation from visual representations of high dimensional data, lack of statistical rigour in inferring conclusions from data and models. 
 
 Researchers interested in contributing should upload an extended abstract of 4 pages (excluding references)    in PDF format to the [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019) by Sep 20th, 2019, 11:59pm (PST). Submissions exceeding the page limit will be automatically rejected.
 
@@ -73,9 +75,9 @@ No special style is required. Authors may use the NIPS style file, but are also 
 **Submissions should be suitably anonymized and meet the requirements for double-blind reviewing.**
 
 
-All submissions to the Research track will be anonymously peer reviewed and will be evaluated on the basis of their technical content.  A strong submission to the workshop typically presents a new learning method that yields new biological insights, or applies an existing learning method to a new biological problem.  However, submissions that improve upon existing methods for solving previously studied problems will also be considered. Examples of research presented in previous years can be found online at http://raetschlab.org:10080/nipscompbio/previous.
+All submissions will be anonymously peer reviewed and will be evaluated on the basis of their technical content.  
 
-The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. This is done to encourage presentation of mature research projects that are interesting to the community. The authors should clearly state any overlapping published work at the time of submission. 
+The workshop allows submissions of papers (for both tracks) that are under review or have been recently published in a conference or a journal. This is done to encourage presentation of mature research projects that are interesting to the community. The authors should clearly state any overlapping published work at the time of submission. 
 
 
 

@@ -60,6 +60,9 @@ In addition to talks by invited speakers, will also have the usual rigorous scre
 
 ## Submission instructions
 
+Please see the Call for Paper (CfP) [here] (https://docs.google.com/document/d/1IclEhfiiokboptsWqT0NhZeBL_WETb9IpVtd_PWsn4Y/edit?usp=sharing)
+
+
 New this year we will accept submission in two tracks: 
 
 1) Research track: abstracts describing research on novel learning approaches in computational biology. A strong submission to the workshop typically presents a new learning method that yields new biological insights, or applies an existing learning method to a new biological problem.  However, submissions that improve upon existing methods for solving previously studied problems will also be considered. Examples of research presented in previous years can be found online at http://raetschlab.org:10080/nipscompbio/previous. We specially encourage submissions describing work in progress and early results, for generating discussions helpful in shaping the presented work.

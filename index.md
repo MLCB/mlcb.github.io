@@ -60,7 +60,7 @@ In addition to talks by invited speakers, will also have the usual rigorous scre
 
 ## Submission instructions
 
-Please see the Call for Paper (CfP) [here] (https://docs.google.com/document/d/1IclEhfiiokboptsWqT0NhZeBL_WETb9IpVtd_PWsn4Y/edit?usp=sharing)
+Please see the Call for Paper (CfP) [here](https://docs.google.com/document/d/1IclEhfiiokboptsWqT0NhZeBL_WETb9IpVtd_PWsn4Y/edit?usp=sharing)
 
 
 New this year we will accept submission in two tracks: 

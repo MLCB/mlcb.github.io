@@ -91,9 +91,9 @@ TBA
 ```
 ## Program Committee
 
-Elham	Azizi	(Columbia University/MSSM)<br />
-Alexis	Battle	(Johns Hopkins University)<br />
-Andreas	Beyer	(University of Cologne)<br />
+Elham	Azizi	(Columbia University/MSSM)<br>
+Alexis	Battle	(Johns Hopkins University)<br>
+Andreas	Beyer	(University of Cologne)<br>
 Karsten	Borgwardt	(ETH Zurich)
 Chao	Cheng	(Dartmouth Medical School)
 Manfred	Claassen	(ETH Zurich)

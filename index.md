@@ -94,42 +94,42 @@ TBA
 Elham	Azizi	(Columbia University/MSSM)<br>
 Alexis	Battle	(Johns Hopkins University)<br>
 Andreas	Beyer	(University of Cologne)<br>
-Karsten	Borgwardt	(ETH Zurich)
-Chao	Cheng	(Dartmouth Medical School)
-Manfred	Claassen	(ETH Zurich)
-Andrew	Delong	(University of Toronto)
-Saso	Dzeroski	(Jozef Stefan Institute)
-Jason	Ernst	(University of California, Los Angeles)
-Pierre	Geurts	(University of Liège)
-Anthony	Gitter	(University of Wisconsin-Madison)
-Casey	Greene	(University of Pennsylvania)
-Michael M.	Hoffman	(Princess Margaret Cancer Centre/University of Toronto)
-Antti	Honkela	(University of Helsinki)
-Lin	Hou	(Tsinghua University)
-Laurent	Jacob	(Mines ParisTech)
-Smita	Krishnaswamy	(Yale University)
-Benjamin	Logsdon	(Sage Bionetworks)
-Jian	Ma	(Carnegie Mellon University)
-Martin Renqiang	Min	(NEC Laboratories America)
-Alan	Moses	(University of Toronto)
-Bernard	Ng	(The University of British Columbia)
-William Stafford	Noble	(University of Washington)
-Leopold	Parts	(Wellcome Trust Sanger Institute)
-Itsik	Pe'Er	(Columbia University)
-Nico	Pfeifer	(Department of Computer Science, )University of Tübingen)
-Yanjun	Qi	(University of Virginia)
-Magnus	Rattray	(The University of Manchester)
-Simon	Rogers	(University of Glasgow)
-Juho	Rousu	(Aalto University)
-Sushmita	Roy	(University of Wisconsin-Madison)
-Guido	Sanguinetti	(University of Edinburgh)
-Sriram	Sankararaman	(University of California, Los Angeles)
-Alexander	Schliep	(Gothenburg University)
-Li	Shen	(Icahn School of Medicine at Mount Sinai)
-David	van Dijk	(Yale University)
-Jean-Philippe	Vert	(Google Brain)
-Jinbo	Xu	(Toyota Technological Institute at Chicago)
-Marinka	Zitnik	(Stanford University/Harvard)
+Karsten	Borgwardt	(ETH Zurich)<br>
+Chao	Cheng	(Dartmouth Medical School)<br>
+Manfred	Claassen	(ETH Zurich)<br>
+Andrew	Delong	(University of Toronto)<br>
+Saso	Dzeroski	(Jozef Stefan Institute)<br>
+Jason	Ernst	(University of California, Los Angeles)<br>
+Pierre	Geurts	(University of Liège)<br>
+Anthony	Gitter	(University of Wisconsin-Madison)<br>
+Casey	Greene	(University of Pennsylvania)<br>
+Michael M.	Hoffman	(Princess Margaret Cancer Centre/University of Toronto)<br>
+Antti	Honkela	(University of Helsinki)<br>
+Lin	Hou	(Tsinghua University)<br>
+Laurent	Jacob	(Mines ParisTech)<br>
+Smita	Krishnaswamy	(Yale University)<br>
+Benjamin	Logsdon	(Sage Bionetworks)<br>
+Jian	Ma	(Carnegie Mellon University)<br>
+Martin Renqiang	Min	(NEC Laboratories America)<br>
+Alan	Moses	(University of Toronto)<br>
+Bernard	Ng	(The University of British Columbia)<br>
+William Stafford	Noble	(University of Washington)<br>
+Leopold	Parts	(Wellcome Trust Sanger Institute)<br>
+Itsik	Pe'Er	(Columbia University)<br>
+Nico	Pfeifer	(University of Tübingen)<br>
+Yanjun	Qi	(University of Virginia)<br>
+Magnus	Rattray	(The University of Manchester)<br>
+Simon	Rogers	(University of Glasgow)<br>
+Juho	Rousu	(Aalto University)<br>
+Sushmita	Roy	(University of Wisconsin-Madison)<br>
+Guido	Sanguinetti	(University of Edinburgh)<br>
+Sriram	Sankararaman	(University of California, Los Angeles)<br>
+Alexander	Schliep	(Gothenburg University)<br>
+Li	Shen	(Icahn School of Medicine at Mount Sinai)<br>
+David	van Dijk	(Yale University)<br>
+Jean-Philippe	Vert	(Google Brain)<br>
+Jinbo	Xu	(Toyota Technological Institute at Chicago)<br>
+Marinka	Zitnik	(Stanford University/Harvard)<br>
 
 <!--## 
 ## Sponsors

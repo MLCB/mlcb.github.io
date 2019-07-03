@@ -91,45 +91,45 @@ TBA
 ```
 ## Program Committee
 
-Elham	Azizi	Columbia University
-Alexis	Battle	Johns Hopkins University
-Andreas	Beyer	University of Cologne
-Karsten	Borgwardt	ETH Zurich
-Chao	Cheng	Dartmouth Medical School
-Manfred	Claassen	ETH Zurich
-Andrew	Delong	University of Toronto
-Saso	Dzeroski	Jozef Stefan Institute
-Jason	Ernst	University of California, Los Angeles
-Pierre	Geurts	University of Liège
-Anthony	Gitter	University of Wisconsin-Madison
-Casey	Greene	University of Pennsylvania
-Michael M.	Hoffman	Princess Margaret Cancer Centre/University of Toronto
-Antti	Honkela	University of Helsinki
-Lin	Hou	Tsinghua University
-Laurent	Jacob	Mines ParisTech
-Smita	Krishnaswamy	Yale University
-Benjamin	Logsdon	Sage Bionetworks
-Jian	Ma	Carnegie Mellon University
-Martin Renqiang	Min	NEC Laboratories America
-Alan	Moses	University of Toronto
-Bernard	Ng	The University of British Columbia
-William Stafford	Noble	University of Washington
-Leopold	Parts	Wellcome Trust Sanger Institute
-Itsik	Pe'Er	Columbia University
-Nico	Pfeifer	Department of Computer Science, University of Tübingen
-Yanjun	Qi	University of Virginia.edu
-Magnus	Rattray	The University of Manchester
-Simon	Rogers	Department of Computing Science, University of Glasgow
-Juho	Rousu	Aalto University
-Sushmita	Roy	University of Wisconsin-Madison
-Guido	Sanguinetti	The University of Edinburgh
-Sriram	Sankararaman	University of California, Los Angeles
-Alexander	Schliep	Gothenburg University
-Li	Shen	Icahn School of Medicine at Mount Sinai
-David	van Dijk	Yale University
-Jean-Philippe	Vert	Google
-Jinbo	Xu	Toyota Technological Institute at Chicago
-Marinka	Zitnik	Stanford University
+Elham	Azizi	(Columbia University/MSSM)
+Alexis	Battle	(Johns Hopkins University)
+Andreas	Beyer	(University of Cologne)
+Karsten	Borgwardt	(ETH Zurich)
+Chao	Cheng	(Dartmouth Medical School)
+Manfred	Claassen	(ETH Zurich)
+Andrew	Delong	(University of Toronto)
+Saso	Dzeroski	(Jozef Stefan Institute)
+Jason	Ernst	(University of California, Los Angeles)
+Pierre	Geurts	(University of Liège)
+Anthony	Gitter	(University of Wisconsin-Madison)
+Casey	Greene	(University of Pennsylvania)
+Michael M.	Hoffman	(Princess Margaret Cancer Centre/University of Toronto)
+Antti	Honkela	(University of Helsinki)
+Lin	Hou	(Tsinghua University)
+Laurent	Jacob	(Mines ParisTech)
+Smita	Krishnaswamy	(Yale University)
+Benjamin	Logsdon	(Sage Bionetworks)
+Jian	Ma	(Carnegie Mellon University)
+Martin Renqiang	Min	(NEC Laboratories America)
+Alan	Moses	(University of Toronto)
+Bernard	Ng	(The University of British Columbia)
+William Stafford	Noble	(University of Washington)
+Leopold	Parts	(Wellcome Trust Sanger Institute)
+Itsik	Pe'Er	(Columbia University)
+Nico	Pfeifer	(Department of Computer Science, )University of Tübingen)
+Yanjun	Qi	(University of Virginia)
+Magnus	Rattray	(The University of Manchester)
+Simon	Rogers	(University of Glasgow)
+Juho	Rousu	(Aalto University)
+Sushmita	Roy	(University of Wisconsin-Madison)
+Guido	Sanguinetti	(University of Edinburgh)
+Sriram	Sankararaman	(University of California, Los Angeles)
+Alexander	Schliep	(Gothenburg University)
+Li	Shen	(Icahn School of Medicine at Mount Sinai)
+David	van Dijk	(Yale University)
+Jean-Philippe	Vert	(Google Brain)
+Jinbo	Xu	(Toyota Technological Institute at Chicago)
+Marinka	Zitnik	(Stanford University/Harvard)
 
 <!--## 
 ## Sponsors

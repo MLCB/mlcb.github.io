@@ -13,12 +13,12 @@ We are excited to be holding the 14th MLCB meeting, co-located with NeurIPS in V
 
 ## Conference Location and Format
   * The conference will be located downtown Vancouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
-  * We will be held in UBC Robston Square (800 Robson St, Vancouver, BC V6Z 3B7), room C150/180 on Dec 14th. 
+  * The meeting will be held in room C150/180 at UBC Robston Square (800 Robson St, Vancouver, BC V6Z 3B7). 
 
 ## Important dates
    * Submissions due: ~~**Sept 20th, 2019, 11:59pm**~~ **Extended: Oct 4th, 2019, 11:59pm [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019)
    * Decision notification: Nov 4th, 2019
-   * Workshop: Dec 13-14th, 2019
+   * Workshop: Dec 14th, 2019
 
 
 <!--## Instructions for posters

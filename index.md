@@ -39,7 +39,6 @@ Send any questions to nipsmlcb2017@easychair.org.-->
    * [Quaid Morris - University of Toronto (Canada)](http://www.morrislab.ca/)
    * [Jennifer Listgarten - UC Berkeley (USA)](http://www.jennifer.listgarten.com/)
    * [William Stafford Noble - University of Washington (USA)](https://noble.gs.washington.edu/) 
-   * [Daphne Koller - Insitro (USA)](http://insitro.com/) 
    
    
 ## Organizers

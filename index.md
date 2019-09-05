@@ -17,7 +17,7 @@ We are excited to be holding the 14th MLCB meeting, co-located with NeurIPS in V
 
 ## Important dates
    * Submissions due: ~~**Sept 20th, 2019, 11:59pm**~~ **Extended: Oct 4th, 2019, 11:59pm [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019)
-   * Decision notification: Oct 21th, 2019
+   * Decision notification: Oct 25th, 2019
    * Workshop: Dec 13-14th, 2019
 
 

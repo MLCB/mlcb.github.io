@@ -6,19 +6,20 @@ output:
 ---
 
 <h3> Machine Learning in Computational Biology (MLCB) Meeting, co-located with NeurIPS. 
-<br />  Dec 13th and 14th 2019, Vancouver, Canada</h3>
+<br />  Dec 14th 2019, Vancouver, Canada</h3>
 
 ## About
 We are excited to be holding the 14th MLCB meeting, co-located with NeurIPS in Vancouver. Since its inception in 2004, and until 2017, MLCB was an official NeurIPS workshop. Given the growth and maturity of the field, this year MLCB will be an independent conference co-located with NeurIPS. 
 
-## Conference Location and Format
+## Conference Location, Format, and Registration
   * The conference will be located downtown Vancouver (a few minute walks from the Convention Center-NeurIPS location) at [UBC Robson Square](https://robsonsquare.ubc.ca/). 
-  * We will have two full research days consisting of invited presentations and poster sessions. The meeting will be held in C300 on 13th (Theatre room), and C150/180 on Dec 14th, both at  UBC Robson Square -- 800 Robson St, Vancouver, BC V6Z 3B7.
-
+  * The meeting will be held in room C150/180 at UBC Robston Square (800 Robson St, Vancouver, BC V6Z 3B7). 
+  * There is no registration fee, and all are welcome (constrainted by space availability). We will provide a registration link here shortly. 
+  
 ## Important dates
-   * Submissions due: **Sept 20th, 11:59pm (PST)** [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019)
-   * Decision notification: Oct 21th, 2019
-   * Workshop: Dec 13-14th, 2019
+   * Submissions due: ~~**Sept 20th, 2019, 11:59pm**~~ **Extended: Oct 4th, 2019, 11:59pm [MLCB submission web site](https://easychair.org/conferences/?conf=mlcb2019)
+   * Decision notification: Nov 4th, 2019
+   * Workshop: Dec 14th, 2019
 
 
 <!--## Instructions for posters
@@ -39,7 +40,6 @@ Send any questions to nipsmlcb2017@easychair.org.-->
    * [Quaid Morris - University of Toronto (Canada)](http://www.morrislab.ca/)
    * [Jennifer Listgarten - UC Berkeley (USA)](http://www.jennifer.listgarten.com/)
    * [William Stafford Noble - University of Washington (USA)](https://noble.gs.washington.edu/) 
-   * [Daphne Koller - Insitro (USA)](http://insitro.com/) 
    
    
 ## Organizers
@@ -59,6 +59,9 @@ The goals of this workshop are to i) present emerging problems and innovative ma
 In addition to talks by invited speakers, will also have the usual rigorous screening of contributed talks on novel learning approaches in computational biology. The targeted audience are people with interest in machine learning and applications to relevant problems from the life sciences, including NIPS participants without any existing research link to computational biology. Many of the talks will be of interest to the broad machine learning community.  
 
 ## Submission instructions
+
+Please see the Call for Paper (CfP) [here](https://docs.google.com/document/d/1IclEhfiiokboptsWqT0NhZeBL_WETb9IpVtd_PWsn4Y/edit?usp=sharing)
+
 
 New this year we will accept submission in two tracks: 
 
@@ -86,6 +89,47 @@ The workshop allows submissions of papers (for both tracks) that are under revie
 TBA
 
 ```
+## Program Committee
+
+Elham	Azizi	(Columbia University/MSSM)<br>
+Alexis	Battle	(Johns Hopkins University)<br>
+Andreas	Beyer	(University of Cologne)<br>
+Karsten	Borgwardt	(ETH Zurich)<br>
+Chao	Cheng	(Dartmouth Medical School)<br>
+Manfred	Claassen	(ETH Zurich)<br>
+Andrew	Delong	(University of Toronto)<br>
+Saso	Dzeroski	(Jozef Stefan Institute)<br>
+Jason	Ernst	(University of California, Los Angeles)<br>
+Pierre	Geurts	(University of Liège)<br>
+Anthony	Gitter	(University of Wisconsin-Madison)<br>
+Casey	Greene	(University of Pennsylvania)<br>
+Michael M.	Hoffman	(Princess Margaret Cancer Centre/University of Toronto)<br>
+Antti	Honkela	(University of Helsinki)<br>
+Lin	Hou	(Tsinghua University)<br>
+Laurent	Jacob	(Mines ParisTech)<br>
+Smita	Krishnaswamy	(Yale University)<br>
+Benjamin	Logsdon	(Sage Bionetworks)<br>
+Jian	Ma	(Carnegie Mellon University)<br>
+Martin Renqiang	Min	(NEC Laboratories America)<br>
+Alan	Moses	(University of Toronto)<br>
+Bernard	Ng	(The University of British Columbia)<br>
+William Stafford	Noble	(University of Washington)<br>
+Leopold	Parts	(Wellcome Trust Sanger Institute)<br>
+Itsik	Pe'Er	(Columbia University)<br>
+Nico	Pfeifer	(University of Tübingen)<br>
+Yanjun	Qi	(University of Virginia)<br>
+Magnus	Rattray	(The University of Manchester)<br>
+Simon	Rogers	(University of Glasgow)<br>
+Juho	Rousu	(Aalto University)<br>
+Sushmita	Roy	(University of Wisconsin-Madison)<br>
+Guido	Sanguinetti	(University of Edinburgh)<br>
+Sriram	Sankararaman	(University of California, Los Angeles)<br>
+Alexander	Schliep	(Gothenburg University)<br>
+Li	Shen	(Icahn School of Medicine at Mount Sinai)<br>
+David	van Dijk	(Yale University)<br>
+Jean-Philippe	Vert	(Google Brain)<br>
+Jinbo	Xu	(Toyota Technological Institute at Chicago)<br>
+Marinka	Zitnik	(Stanford University/Harvard)<br>
 
 <!--## 
 ## Sponsors

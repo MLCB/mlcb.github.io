@@ -23,7 +23,7 @@ with tag('html'):
     with tag('body', id = 'hello'):
         with tag("div", klass="container"):
             line("h2", "MLCB 2019 Proceedings")
-            doc.asis("<p>The 14th Machine Learning in Computational Biology (MLCB) meeting, sponsored by Recursion, Deep Genomics, and Amazon, was held December 13-14th, 2019 co-located with NeurIPS in Vancouver. For more information, please see <a href='https://sites.google.com/cs.washington.edu/mlcb2019/'>here</a>. <a href='https://youtu.be/xueh6WnpRDQ'>Recorded invited and contributed talks</a> are also available. </p>""")
+            doc.asis("<p>The 14th Machine Learning in Computational Biology (MLCB) meeting, sponsored by Recursion, Deep Genomics, and Amazon, was held December 13-14th, 2019 co-located with NeurIPS in Vancouver. For more information, please see <a href='https://sites.google.com/cs.washington.edu/mlcb2019/'>here</a>. <a href='https://www.youtube.com/playlist?list=PL9Uzhlxi3pANDAzI_5NA-DJhmqUWhtqbz'>Recorded invited and contributed talks</a> are also available. </p>""")
             with tag('ul'):
                 for row in papers.itertuples(): 
                     paper_href = "papers/paper_%i.pdf" % row.id

@@ -1,0 +1,33 @@
+1	"Iddo Drori, Darshan Thaker, Arjun Srivatsa, Daniel Jeong, Yueqi Wang, Linyong Nan, Fan Wu, Dimitri Leggas, Jinhao Lei, Weiyi Lu, Weilong Fu, Yuan Gao, Sashank Karri, Anand Kannan, Antonio Moretti, Mohammed AlQuraishi, Chen Keasar and Itsik Pe'er"	Accurate Protein Structure Prediction by Embeddings and Deep Learning Representations
+3	"Hyunmin Lee, Zhen Hao Wu, Carles Corbi-Verges, Mac Mok, Sidney Kang, Shun Liao, Zhaolei Zhang and Michael Garton"	De Novo Crystallization Condition Prediction with Deep Learning
+5	"Frederick Matsen IV, Mathieu Fourment, Michael Karcher, Andrew Magee, Christiaan Swanepoel and Cheng Zhang"	"Learning, using, and extending variational distributions of phylogenetic trees"
+24	Sajal Kumar and Mingzhou Song	Statistical Inference of Discrete Combinatorial Functional Dependency in Biological Systems
+29	"David Yang, Samuel Goldman, Eli Weinstein and Debora Marks"	Generative models for codon prediction and optimization
+30	"Michael Dimmick, Leo J Lee and Brendan J Frey"	HiCSR: A Hi-C Super-Resolution Framework for Producing Highly Realistic Contact Maps
+32	"Pierre Boyeau, Romain Lopez, Jeffrey Regier, Adam Gayoso, Michael I. Jordan and Nir Yosef"	Deep Generative Models for Detecting Differential Expression in Single Cells
+37	"Khawla Seddiki, Philippe Saudemont, Frederic Precioso, Nina Ogrinc, Maxence Wisztorski, Michel Salzet, Isabelle Fournier and Arnaud Droit"	Feature learning with Deep Neural Networks for MS-based clinical diagnosis
+39	"Yiliang Zhang, Kexuan Liang, Molei Liu, Yue Li, Hao Ge and Hongyu Zhao"	SCRIBE: a new approach to dropout imputation and batch effects correction for single-cell RNA-seq data
+41	"Alan Moses, Alex Lu, Amy Lu and Marzyeh Ghassemi"	Transfer Learning vs. Batch Effects: what can we expect from neural networks in computational biology?
+43	"Adam Gayoso, Romain Lopez, Zoë Steier, Jeffrey Regier, Aaron Streets and Nir Yosef"	A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells
+45	Lan Huong Nguyen and Susan Holmes	Diffusion t-SNE for multiscale data visualization
+47	Hui Ting Grace Yeo and David Gifford	Disentangling unwanted sources of variation in single-cell RNA-sequencing data under weak supervision
+48	"Conor Delaney, Alexandra Schnell, Louis Cammarata, Aaron Yao-Smith, Aviv Regev, Vijay Kuchroo and Meromit Singer"	COMET: A tool for predicting multiple gene-marker panels from single-cell transcriptomic data
+52	"Paul Bertin, Mohammad Hashir, Martin Weiss, Vincent Frappier, Theodore Perkins, Geneviève Boucher and Joseph Paul Cohen"	Is graph-based feature selection of genes better than random?
+53	"Kevin Dsouza, Adam Li, Vijay Bhargava and Maxwell Libbrecht"	A Cell Type-Agnostic Representation of the Human Epigenome through a Deep Recurrent Neural Network Model
+55	"Linhua Wang, Jeffrey Law, T. M. Murali and Gaurav Pandey"	Data integration through heterogeneous ensembles for protein function prediction
+56	Peter Koo and Matthew Ploenzke	Interpreting Deep Neural Networks Beyond Attribution Methods: Quantifying Global Importance of Features
+58	"Hassan Kané, Mohamed Coulibali, Ali Abdalla and Pelkins Ajanoh"	Augmenting protein network embeddings with sequence information
+65	"Oscar Clivio, Romain Lopez, Jeffrey Regier, Adam Gayoso, Michael I. Jordan and Nir Yosef"	Detecting Zero-Inflated Genes in Single-Cell Transcriptomics Data
+76	"Bernard Ng, William Casazza, Farnush Farhadi and Sara Mostafavi"	Cascading Epigenomic Model for GWAS
+78	Ammar Tareen and Justin Kinney	Biophysical models of cis-regulation as interpretable neural networks
+87	"Johannes Linder, Nicholas Bogard, Alexander B Rosenberg and Georg Seelig"	Deep exploration networks for rapid engineering of functional DNA sequences
+89	John Halloran and David Rocke	GPU-Accelerated SVM Learning for Extremely Fast Large-Scale Proteomics Analysis
+92	"Galip Gurkan Yardimci, Jacob Schreiber, Jeffrey Bilmes and William Stafford Noble"	Selecting representative subsets of genomic loci
+97	"Shreshth Gandhi, Leo Lee, Andrew Delong, David Duvenaud and Brendan Frey"	cDeepbind: A context sensitive deep learning model of RNA-protein binding
+99	"Camille Rochefort-Boulanger, Léo Choinière, Jean-Christophe Grenier, Pierre-Luc Carrier and Julie Hussin"	Generalization Capability of the Diet Network Model on Genomic Data
+102	"Daniel Mas Montserrat, Carlos Bustamante and Alexander Ioannidis"	Class-Conditional VAE-GAN for Local-Ancestry Simulation
+105	"Iman Deznabi, Büşra Arabacı, Mehmet Koyuturk and Oznur Tastan"	DeepKinZero: Zero-Shot Learning for Predicting Kinase-Phosphosite Associations
+107	"Rohit Jammula, Vishnu Tejus and Shreya Shankar"	Optimal Transfer Learning Model for Binary Classification of Funduscopic Images through Simple Heuristics
+110	Jack Lanchantin and Yanjun Qi	Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
+111	"Sathappan Muthiah, Debanjan Datta, Mohammad Raihanul Islam, Patrick Butler, Andrew Warren and Naren Ramakrishnan"	ProtTox: Toxin identification from Protein Sequences
+113	"Andreea Gane, David Belanger, David Dohan, Christof Angermueller, Ramya Deshpande, Suhani Vora, Olivier Chapelle, Babak Alipanahi, Kevin Murphy and Lucy Colwell"	A Comparison of Generative Models for Sequence Design

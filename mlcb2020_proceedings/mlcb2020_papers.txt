@@ -1,0 +1,40 @@
+Paper Title	Authors	Name of File	Name of Supplemenatary Material	
+fastISM: Performant in-silico saturation mutagenesis for convolutional neural networks	Surag Nair, Avanti Shrikumar, Anshul Kundaje	5\Submission\fastISM_MLCB.pdf	5\submission\fastISM_MLCB_supp.pdf	
+Using ontology embeddings for structural inductive bias in gene expression data analysis	Maja Trebacz, Zohreh Shams, Mateja Jamnik, Paul Scherer, Nikola Simidjievski, Helena Andres Terre, Pietro Liò	6\Submission\MLCB-OntoGCN.pdf		
+Prioritization of non-coding variants based on human intolerance to variation and primary sequence context using deep learning	Dimitrios Vitsios, Ryan S. Dhindsa, Ayal B. Gussow, Slavé Petrovski	9\Submission\Vitsios_et_al-MLCB_2020.pdf		
+Benchmarking Reverse-Complement Strategies for Deep Learning Models in Genomics	Hannah Zhou, Avanti Shrikumar, Anshul Kundaje	10\Submission\Revcomp_Hannah_Paper (19).pdf		
+Incorporating network based protein complex discovery into automated model construction	Paul Scherer, Maja Trebacz, Nikola Simidjievski, Zohreh Shams, Helena Andres Terre, Pietro Liò, Mateja Jamnik	11\Submission\MLCB_Submission_PComplexNet.pdf		
+Ledidi: Designing genomic edits that induce functional activity	Jacob Schreiber, Yang Young Lu, William Stafford Noble 	12\Submission\jmschr-epigenome-editing-mlcb.pdf		
+HiC2Self: Self-supervised Hi-C contact map denoising	Rui Yang, Alizera Karbalayghareh, Christina Leslie	13\Submission\HiC2Self.pdf		
+Leveraging Unlabeled Data for Glioma Molecular Subtype and Survival Prediction	Nicholas Nuechterlein, Beibin Li, Mehmet Saygin Seyfioglu, Sachin Mehta, Patrick J Cimino, Linda Shapiro	15\Submission\MLCB_2020_final.pdf	15\Submission\MLCB_SUP_final.pdf	
+Nonlinear post-selection inference for genome-wide association studies	Lotfi Slim, Clement Chatelain, Chloe-Agathe Azencott	16\Submission\MLCB.pdf		
+Covered Information Disentanglement: Correcting Permutation Feature Importance in the Presence of Covariates	Joao Belo Pereira, Diogo Bastos, Erik Stroes, Evgeni Levin	19\Submission\CID.pdf	19\Submission\sup_material.pdf	
+Weight-based Neural Network Interpretability using Activation Tuning and Personalized Products	Hussein Mohsen, Jonathan Warrell, Martin Renqiang Min, Sahand Negahban, Mark Gerstein	21\Submission\MLCB_20_Weight-based Neural Network Interpretability using Activation Tuning and Personalized Products.pdf		
+Novel Insights into RNA Splicing from Interpretable Machine Learning	Mukund Sudarshan, Susan E. Liao, Oded Regev	22\Submission\MLCB_2020_submission.pdf		
+A Method for Pedigree-based Propagated Risk Phenotyping on Clalit Data	Nancy-Sarah Yacovzada, Iris Kalka, Eran Segal, Eran Hornstein	24\Submission\MLCB2020_Pedigree-based HRS.pdf		
+VSS: Variance-stabilized signals for sequencing-based genomic signals	Faezeh Bayat, Maxwell Libbrecht	26\Submission\MLCB_2020.pdf		
+Do machine learning predictors of microbial phenotype from genotype identify causal variants?	Morteza M. Saber, Maxwell Libbrecht, Leonid Chindelevitch, Jesse Shapiro	28\Submission\MLCB2020_Morteza.M.Saber.pdf		
+ImputeCoVNet: 2D ResNet Autoencoder for Imputation of SARS-CoV-2 Sequences	Ahmad Pesaranghader, Justin Pelletier, Jean-Christophe Grenier, Raphaël Poujol, Julie Hussin	29\Submission\ImputeCoVNet.pdf		
+Efficient inference of nonlinear feature attributions with Scrambling Neural Networks	Johannes Linder, Alyssa La Fleur, Sreeram Kannan, Zibo Chen, Ajasja Ljubetic, David Baker, Georg Seelig	33\Submission\Scrambler_MLCB_Abstract_Final (1).pdf		
+RLevolution: Unravelling the history of genomic instability through deep reinforcement learning	Yun Feng, Christopher Yau	38\Submission\WGD_MLCB_.pdf		
+Learning interpretable latent autoencoder representations with annotations of feature sets	Sergei Rybakov, Mohammad Lotfollahi, Fabian J. Theis, F. Alexander Wolf	40\Submission\Interpretable_Autoencoders_MLCB.pdf		
+Machine Learning Approaches for RNA Editing Prediction	Andrew J. Jung, Leo J. Lee, Alice J. Gao, Brendan J. Frey	41\Submission\MLCB2020-13.pdf		
+Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning	Amy X. Lu, Alex X. Lu, Alan Moses	44\Submission\EvolIsAllYouNeed_MLCB_1002Final.pdf		
+Self-Supervised Contrastive Learning of Protein Representations By Mutual Information Maximization	Amy X. Lu, Haoran Zhang, Marzyeh Ghassemi, Alan Moses 	45\Submission\CPCProt_MLCB_1002Final.pdf		
+Modeling Gene Regulation by Integrating 1D and 3D Epigenomic Data with Graph Attention Networks	Alireza Karbalaygharch, Christina Leslie	46\Submission\MLCB2020.pdf		
+FsNet: Feature Selection Network on High-dimensional Biological Data	Dinesh Singh, Héctor Climente-González, Mathis Petrovich, Eiryo Kawakami, Makoto Yamada	54\Submission\fsNet.pdf		
+AMBIENT: Accelerated Convolutional Neural Network Architecture Search for Regulatory Genomics	Zijun Zhang, Evan M. Cofer, Olga G. Troyanskaya	55\Submission\2020_NeurIPS_MLCB_AMBIENT.pdf		
+JIND: Joint Integration and Neural Discrimination for automated single-cell annotation	Mohit Goyal, Guillermo Serrano, Ilan Shomorony, Mikel Hernaez, Idoia Ocha	57\Submission\main.pdf	57\Submission\supp.pdf	
+Neural networks can extract thermodynamic DNA sequence affinities from in vivo binding profiles of transcription factor binding	Amr M. Alexandari, Connor Horton, Avanti Shrikumar, Polly Fordyce, Anshul Kundaje	58\Submission\Alexandari-MLCB_2020.pdf		
+Molecular Matchmaker: selecting binding peptide-aptamer pairs using machine learning	Aishwarya Mandyam, Yuhao Wan, Luis Ceze, Jeff Nivala, Kevin Jamieson	59\Submission\Molecular_Matchmaker_main.pdf	59\Submission\Molecular_Matchmaker_supp.pdf	
+Fixed-Length Protein Embeddings using Contextual Lenses	Amir Shanehsazzadeh, David Belanger, David Dohan	60\Submission\fixed_length_protein_embeddings_using_contextual_lenses.pdf		
+SplitStrains, a tool to identify and separate mixed Mycobacterium tuberculosis infections from WGS data	Einar Gabbasov, Miguel Moreno-Molina, I ̃naki Comas, Maxwell Libbrecht, Leonid Chin-delevitch	65\Submission\splitStrainsAbstract.pdf		
+Graph embedding for inferring genome domains from genome 3D structure	Neda Shokranch, Maxwell W Libbrecht	66\Submission\Neda_MLCB.pdf		
+Learning putatively causal gene regulatory programs using permutation-equivariant neural networks	Sanjit Singh Batra, Jeffrey Spence, Yun S. Song	72\Submission\MLCB_2020_Sanjit_Batra_Jeffrey_Spence_Yun_S_Song.pdf		
+Gromov–Wasserstein based optimal transport to align single-cell multi-omics data	Pinar Demetci, Rebecca Santorella, Bjorn Sandstede, William Stafford Noble,Ritambhara Singh	74\Submission\SCOT\Gwsinglecell_alignment_MLCB.pdf		
+Variational Combinatorial Sequential Monte Carlo For Bayesian Phylogenetic Inference	Antonio Moretti, Liyi Zhang, Itsik Pe’er	75\Submission\Variational Combinatorial Sequential Monte Carlo for Bayesian Phylogenetic Inference.pdf		
+Visualizing High Dimensional and High Frequency Electrical Biosignals	Andres F. Duque, Guy Wolf, Kevin R. Moon	76\Submission\Visualizing High Dimensional and High Frequency Electrical Biosignals.pdf		
+Spatial Microbial Dynamics	Anushri Arora, Tetsuhiro Harimoto, Tal Danino, Itsik Pe’er	79\Submission\Spatial_Microbial_Dynamics_Final_Paper.pdf	79\Submission\Spatial_Microbial_Dynamics_Appendix.pdf
+Convolutional Additive Models: a fully interpretable approach to Deep Learning in Genomics	Manu Saraswat, Gherman Novakovsky. Etienne Meunier, Oriol Fomes, Sara Mostafavi, Wyeth W Wasserman	84\Submission\Manuscript-CAM MLCB_Final (2).pdf		
+Deep Homology-Based Protein Contact-Map Prediction	Omer Ronen, Or Zuk	87\Submission\periscope_neurips_mlcb_final.pdf		
+Continuous chromatin state feature annotation of the human epigenome	Habib Daneshpajouh, Bowen Chen, Neda Shokranch, Shohre Masoumi, Kay C Wiese, Maxwell W Libbrecht	89\Submission\SSMMLCB2020.pdf		
